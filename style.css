@@ -1,0 +1,7 @@
+body {  background-image: url("resim/Picsart.jpg"); width:"50%"
+        background-position:center center;
+        background-size: cover;
+        background-color: black;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+}       
